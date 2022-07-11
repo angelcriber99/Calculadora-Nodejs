@@ -1,0 +1,22 @@
+{
+  "name": "calculadora-nodejs",
+  "version": "1.0.0",
+  "description": "Una simple calculadora web.",
+  "main": "calculadora.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelcriber99/Calculadora-Nodejs.git"
+  },
+  "author": "Ángel Criado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angelcriber99/Calculadora-Nodejs/issues"
+  },
+  "homepage": "https://github.com/angelcriber99/Calculadora-Nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
